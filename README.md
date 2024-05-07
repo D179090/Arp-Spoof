@@ -13,7 +13,8 @@ This is a repository with the current version of the Arp-Spoof program for pytho
   sudo python3 Arp-Spoof.py <router ip address> <victim's IP address>
 ```
 * On Windows
-  \nInstall Python 3
+
+  Install Python 3
 ```Powershell
   python3 -m venv $foler-project
   cd "$folder-project/Scripts"
