@@ -1,5 +1,5 @@
 # Arp-Spoof
-This is a repository with the current version of the Arp-Spoof program for python
+This is a repository with the current version of the Arp-Spoof program writen on python
 #### Supported platforms:
 * Linux
 * Windows(not tested)
