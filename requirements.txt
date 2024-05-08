@@ -1,2 +1,1 @@
-scapy
-sys
+scapy        2.5.0
